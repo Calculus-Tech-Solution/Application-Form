@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  padding: 7px;
+  background-color: whitesmoke;
+}
+form {
+  padding: 7px;
+}
+input {
+  border: none;
+  padding: 7px;
+  border-radius: 5px;
+}
+button {
+  width: 100%;
+  border: none;
+  border-radius: 10px;
+  background-color: rgba(40, 40, 233, 0.603);
+  padding: 7px;
+  color: aliceblue;
+}
