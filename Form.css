@@ -21,3 +21,7 @@ button {
   padding: 7px;
   color: aliceblue;
 }
+input[type="number"] {
+  width: 92%;
+  background-color: lightgray;
+}
