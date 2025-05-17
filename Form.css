@@ -10,18 +10,26 @@ form {
 }
 input {
   border: none;
-  padding: 7px;
+  padding: 8px;
   border-radius: 5px;
 }
 button {
-  width: 100%;
   border: none;
   border-radius: 10px;
   background-color: rgba(40, 40, 233, 0.603);
   padding: 7px;
   color: aliceblue;
+  width: 98%;
 }
-input[type="number"] {
-  width: 92%;
-  background-color: rgb(226, 226, 226);
+.name {
+  width: 47%;
+}
+.email {
+  width: 94%;
+}
+.number {
+  width: 94%;
+}
+.hidden {
+  display: none;
 }
